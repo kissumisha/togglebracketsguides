@@ -1,0 +1,43 @@
+{
+  "name": "togglebracketguides",
+  "displayName": "Toggle Bracket Guides",
+  "description": "Easy way to toggle the bracket guides",
+  "version": "0.1.4",
+  "publisher": "TGOSystems",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "repository": "https://github.com/kissumisha/togglebracketsguides.git",
+  "keywords": [
+    "brackets",
+    "guides",
+    "bracket guides",
+    "brackets color",
+    "bracket pair",
+    "bracket pair",
+    "brackets toggle"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#333",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [{
+      "command": "extension.toggleBracketPairGuides",
+      "title": "Toggle Bracket Pair Guides"
+    }],
+    "keybindings": [{
+      "key": "ctrl+shift+b",
+      "mac": "cmd+shift+b",
+      "command": "extension.toggleBracketPairGuides"
+    }]
+  }
+  
+}
