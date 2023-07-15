@@ -2,12 +2,6 @@
 
 - This extension adds a command that will toggle the setting for Guides: Bracket Pairs. Setting will cycle through active, true and false.
 
-## Features
-
-- Active: Shows the guide for the current function
-- True: Shows the guides for all functions
-- False: Disables the guides.
-
 ## How to use
 
 - Toggle the Bracket Guides with CTRL+SHIFT+B. (Mac users CMD+SHIFT+B).
