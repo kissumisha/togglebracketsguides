@@ -4,8 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## Release Notes
 
+### 0.1.5
+
+- README.md remove repeated information
+
 ### 0.1.4
 
+- First version made public.
 - Improved description
 - Added a keybinging CTRL+SHIFT+B for Windows/Linux users
 - Added a keybinging CMD+SHIFT+B for Mac users
