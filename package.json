@@ -2,7 +2,7 @@
   "name": "togglebracketguides",
   "displayName": "Toggle Bracket Guides",
   "description": "Easy way to toggle the bracket guides",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "TGOSystems",
   "engines": {
     "vscode": "^1.61.0"

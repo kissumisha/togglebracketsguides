@@ -4,9 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ## Release Notes
 
+### 0.1.6
+
+- README improved description
+- Improved extension icon
+- Small corrections to Changelog format
+- Removed VSIX file from folder
+
 ### 0.1.5
 
-- README.md remove repeated information
+- README remove repeated information
 
 ### 0.1.4
 
@@ -19,13 +26,13 @@ All notable changes to this project will be documented in this file.
 
 ### 0.1.3
 
-- Added LICENSE.TXT
-- Created CHANGELOG. 
-- Changes to README.md
+- Added LICENSE
+- Created CHANGELOG 
+- Changes to README
 
 ### 0.1.2
 
-- Added complete README.md file.
+- Added complete README file.
 - Deleted unnecessary dependencies.
 - Included Icon image for the Marketplace.
 
